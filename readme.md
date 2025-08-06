@@ -53,6 +53,20 @@ This is not a live travel agency or commercial project — it’s a **portfolio 
 
 ---
 
+## 📄 License & Usage
+
+This project is part of a **personal portfolio showcase**.
+It is **not open source**, and the **source code is private**.
+
+The project is available for **inspiration and demonstration purposes only**.
+Please do **not copy, reuse, or redistribute** any part of the implementation without permission.
+
+> All rights reserved unless explicitly granted.
+
+If you're interested in **collaborating or building something similar**, feel free to reach out.
+
+---
+
 ## 📬 Contact
 
 If you'd like to collaborate or see more projects like this:
